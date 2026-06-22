@@ -13,5 +13,5 @@ variable "project_name" {
 variable "ssh_cidr" {
   description = "CIDR allowed to SSH to EC2. Replace with your IP/32."
   type        = string
-  default     = "1.2.3.4/32"
+  default     = "146.115.33.120/32"
 }
